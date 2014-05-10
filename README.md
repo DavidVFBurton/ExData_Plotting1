@@ -62,7 +62,7 @@ The subset of the household_power_consumption.csv data set contains only data fr
 
 The subset data is provided in this repository under the name "household_power_consumption.csv". 
 
-You must also set your working directory to the location of the ""household_power_consumption.csv" directory.
+You must also set your working directory to the location of the "household_power_consumption.csv" directory.
 
 **Script Usage:**  
 
